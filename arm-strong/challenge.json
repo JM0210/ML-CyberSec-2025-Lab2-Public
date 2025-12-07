@@ -1,0 +1,12 @@
+  {
+  "name": "arm-strong",
+  "category": "pwn",
+  "author": "",
+  "description": "Neil Armstrong was an American astronaut who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon on July 20, 1969. However, it seems that there was a secret conversation between Commander Neil Armstrong and Houston before that famous saying.",
+  "internal_port": 21003,
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "chal",
+    "readme.txt"
+  ]
+}

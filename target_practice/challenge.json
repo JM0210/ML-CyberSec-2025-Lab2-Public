@@ -1,0 +1,14 @@
+{
+  "name": "target_practice",
+  "category": "pwn",
+  "author": "ElykDeer",
+  "description": "Aim carefully... This pwnie can JUMP!",
+  "points": 50,
+  "internal_port": 31138,
+  "compose": true,
+  "reference": "https://github.com/ajn313/ML-CyberSec-2025-Lab2-Public/tree/main/target%20practice",
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "target_practice"
+  ]
+}

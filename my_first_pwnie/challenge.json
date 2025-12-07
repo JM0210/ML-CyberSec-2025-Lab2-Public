@@ -1,0 +1,14 @@
+{
+  "name": "my_first_pwnie",
+  "category": "pwn",
+  "author": "ElykDeer",
+  "description": "You must be this 👉 high to ride.",
+  "points": 25,
+  "internal_port": 31137,
+  "compose": true,
+  "reference": "https://github.com/ajn313/ML-CyberSec-2025-Lab2-Public/tree/main/my_first_pwnie",
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "my_first_pwnie.py"
+  ]
+}
