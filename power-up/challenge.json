@@ -1,0 +1,12 @@
+{
+  "name": "power-up",
+  "category": "pwn",
+  "author": "",
+  "description": "A powerless core can be reignited with the right exploit.",
+  "points": 75,
+  "internal_port": 21005,
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "power-up"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "celestial-cafeteria",
+  "category": "pwn",
+  "author": "",
+  "description": "User input controls a dangerous order size.",
+  "points": 75,
+  "internal_port": 21008,
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "celestial-cafeteria"
+  ]
+}

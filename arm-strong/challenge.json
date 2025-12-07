@@ -6,6 +6,6 @@
   "internal_port": 21003,
   "box": "pwn.chal.csaw.io",
   "files": [
-    "chal"
+    "arm-strong"
   ]
 }

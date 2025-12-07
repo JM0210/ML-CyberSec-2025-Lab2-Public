@@ -1,0 +1,12 @@
+{
+  "name": "mooneys-bookstore",
+  "category": "pwn",
+  "author": "",
+  "description": "A fragile stack hides a forgotten secret.",
+  "points": 75,
+  "internal_port": 21006,
+  "box": "pwn.chal.csaw.io",
+  "files": [
+    "mooneys-bookstore"
+  ]
+}
